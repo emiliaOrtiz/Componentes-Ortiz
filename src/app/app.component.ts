@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Componentes-EmiliaOrtiz';
+  titulo = 'Entregable 1: Utilizando componentes';
 }
